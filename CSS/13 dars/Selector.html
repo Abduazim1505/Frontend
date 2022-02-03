@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Margin collapsing</title>
+        <style>
+            .selector {
+                /* border-width: 10px;
+                border-style: solid;
+                border-color: blue; */
+
+                /* tepada keltirilgan stilning qisqartma versiyasi */
+                border: 10px solid blue;
+            }
+
+            .selector2 {
+                /* element barcha tomoniga turli xil stil berish */
+                border-top: 5px solid blue;
+                border-right: 2px solid purple;
+                border-bottom: 7px solid green;
+                border-left: 10px solid red;
+            }
+
+            .selector {
+                /* marginlarni to'liq ko'rinishi */
+                margin-top: 10px;
+                margin-right: 20px;
+                margin-bottom: 10px;
+                margin-left: 20px;
+            }
+
+            .selector3 {
+                border: 10px solid blue;
+                /* top,bottom = 10px | left,right = 20px */
+                margin: 10px 10px;
+            }
+
+            .selector4 {
+                /* top = 10px | left,right = 20px | bottom = 30px */
+                margin: 10px 20px 30px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="selector">Quti 1</div>
+        <div class="selector2">Quti 2</div>
+        <div class="selector3">Quti 3</div>
+        <div class="selector4">Quti 4</div>
+    </body>
+</html>
