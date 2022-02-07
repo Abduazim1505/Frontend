@@ -1,0 +1,10 @@
+    Relative - element o'zini hozirgi (normal) joylashuviga nisbatan joylashadi
+Agarda position releative deb unga top 10px bersak tepadan pasga tushadi va tagida
+turgan narsani ustiga chiqib oladi agarda margin-top 10px berilsa tagidagi bilan birga suriladi
+
+    Fixed - element "viewport"ga nisbatan joylashadi. Bu degani, u har doim o'zini joyida
+qoladi vs scroll paytida joyini o'zgartirmaydi.
+    Position fixed berilganda u diplay block bo'lsa inline - block elementga o'tadi. Inline - block
+faqat o'ziga yetarli joyni oladi va block elementga o'xshab height, with va padding, top, bottom.. 
+hossalarini amal qildiradi.
+    Fixed - qismi asosan navbar uchun ya'ni tepadagi menu qismi uchun ishlatamiza.

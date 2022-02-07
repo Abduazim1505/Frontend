@@ -1,0 +1,6 @@
+    Position - bu elementni joylashish turini aniqlab berish uchun ishlatiladigan hossa 
+va uning 5 ta qiymati mavhud
+    Static; Relative; fixed; absolute; sticky
+    Static - position bermagan holatimizda u doyim statikga ega bo'ladi va
+static qiymat ega positionga left, right, top berganimiz bilan hech qanday o'zgarish bo'lmaydiu va
+buni ishlatish uchun positionga relative yoki boshqasi qiymat qilib berishimiz kerak bo'ladi
