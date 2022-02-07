@@ -1,0 +1,3 @@
+    Sticky - element "scroll"ning qayerda joylashganiga qarab joylashadi.
+Bu qiymat relative va fixed qiymatlarini o'zida saqlaydi va "scroll"ni qayerda
+joylashganiga qarab shu ikki qiymatdan birini o'ziga oladi.

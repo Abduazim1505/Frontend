@@ -1,3 +1,7 @@
     Absolute - element o'zining eng yaqin joylashtirilgan (positioned) ajdod
 (ancestor) element joylashadi. Joylashtirilgan degani, position xossasi static
 qiymatdan boshqa qiymatga ega bo'lgan elementga aytiladi.
+
+    Absolut - agar elementimiza absolut qiymatga ega bo'lsa u o'zini positioni
+ajdod elementiga nisbatan joylashadi. Agar uni position ajdod elementi bo'lmasa
+u body elementiga nisbatan joylashadi.
