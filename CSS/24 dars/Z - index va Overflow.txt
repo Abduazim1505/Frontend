@@ -1,0 +1,8 @@
+    Z-INDEX - ustma-ust tushib qolgan elementlarni ketma-ketligini aniqlab beradi.
+Kattaroq "z-index"ga ega bo'lgan element kichikrog'iga qaraganda oldinda joylashadi.
+Z-index har doim joylashtirilgan (positioned) elementlarga amal qiladi.
+
+    Overflog - kontent elementni ichiga sig'may qolgan payti, o'zini qanday tutishini
+aniqlab beradi.
+
+    Visible - sig'may qolgan qismi boricha ekranda ko'rinadi
