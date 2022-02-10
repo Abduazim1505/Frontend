@@ -1,0 +1,2 @@
+    Radio button - bir necha variantlardan faqat birini tanlash imkoniyatini
+beruvhi form elementi
