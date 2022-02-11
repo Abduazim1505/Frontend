@@ -11,3 +11,7 @@ for examplega o'xshab bez svetni hira bo'p ko'rinib turadi
     Button
     Color palette - bu odatda dizaynerlar tomonidan ishlatiladigan ranglar
 to'plami
+
+    :After - bu CSS orqali html kodimizga qanaqadir element qo'shmoqchi
+bo'lsak quyidagi after orqali amalga oshiriladi. Bundan tashqari :Before
+ham mavjud.

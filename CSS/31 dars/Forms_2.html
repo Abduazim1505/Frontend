@@ -6,14 +6,81 @@
             .container {
                 padding: 30px;
             }
+
+            /* Radio button uchun container */
+            .form-control {
+                display: block;
+                position: relative;
+                padding-left: 36px;
+                margin-bottom: 10px;
+                cursor: pointer;
+                font-size: 24px;
+            }
+
+            /* Brauzerni radio buttonini berkitish */
+            .form-control input {
+                position: absolute; /* hech qancha joy olmasligi uchun */
+                opacity: 0;
+                cursor: pointer;
+            }
+
+            /* Maxsus radio buttonga style berish */
+            .custom-radio {
+                position: absolute;
+                left: 0;
+                top: 0;
+                height: 24px;
+                width: 24px;
+                background-color: #ddd;
+                border-radius: 50%;
+            }
+
+            /* Sichqoncha olib borilganda orqa fon rangini o'zgarishi */
+            .form-control:hover input ~ .custom-radio {
+                background-color: #ccc;
+            }
+
+            /* Form-control ichidagi input tanlangan(checked) payti uni ichidagi
+            custom-radio elementimiza orqa fon rangi o'zgaradi*/
+            .form-control input:checked ~ .custom-radio {
+                background-color: #2D846E;
+            }
+
+            /* Radio button tanlanganda, uning orqa fon rangini o'zgartirish */
+            .custom-radio:after {
+                top: 8px;
+                left: 8px;
+                width: 8px;
+                height: 8px;
+                border-radius: 50%;
+                background: white;
+                /* Content CSS orqali nima qo'shmoqchi ekanligimiz */
+                content: ""; /* " " bo'sh kontent */
+                position: absolute;
+                display: none;
+            }
+
+            /* Tanlangan paytda belgini ko'rsatish */
+            .form-control input:checked ~ .custom-radio:after {
+                display: block;
+            }
         </style>
     </head>
     <body>
         <div class="container">
-            <input type="radio" name="gender" value="male" id="male">
-            <label for="male">Erkak</label>
-            <input type="radio" name="gender" value="female" id="female">
-            <label for="female">Ayol</label>
+            <h1>Style berilgan radio tugmalar</h1>
+            <label class="form-control">Radio 1
+                <input type="radio" checked="checked" name="radio" value="radio-1">
+                <span class="custom-radio"></span>
+            </label>
+            <label class="form-control">Radio 2
+                <input type="radio" name="radio" value="radio-2">
+                <span class="custom-radio"></span>
+            </label>
+            <label class="form-control">Radio 3
+                <input type="radio" name="radio" value="radio-3">
+                <span class="custom-radio"></span>
+            </label>
         </div>
     </body>
 </html>
