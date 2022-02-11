@@ -1,0 +1,8 @@
+    Rounded - rasmlar qirralari ogina qayrilgan rasmlarga rounded rasmlari deyiladi
+
+    Thumbnail - bu biza ko'rmoqchi bo'lgan original rasmimizani kichraytirilgan
+versiyasi hisoblanadi va munaqa rasmlar orqali biza original rasm yuklamasdan
+foydalanuvchiga uni qanaqa ko'rinishga ega ekanligini ko'rsatib berish uchun
+ishlatiladi
+
+    Opacity - rasmni o'chirib qo'yadi (0.1 - 1)gacha

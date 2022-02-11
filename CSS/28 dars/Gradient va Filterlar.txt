@@ -1,0 +1,5 @@
+    Gradient - bir vaqtning o'zida ko'rsatilgan ikki va undan ortiq ranglar
+orasida o'tish imkoniyatini beradi
+
+    Linear (chiziqli) gradient - chiziqli gradeint yaratib beradi
+    Radial gradient - nurli gradient yaratishda yordam beradi

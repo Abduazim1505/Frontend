@@ -1,0 +1,22 @@
+    Background-image - element uchun orqa fon rasm qo'shish uchun ishlatiladi
+faqat CSS orqali
+    Manzil url(../) 2 nuqta bu fayldan faylga orqaga chiqishni anglatadi
+    Background-repeat - orqa fondagi rasmimiz qanday takrorlanishini belgilab beradi
+    Repeat - rasmimiz elementni orqa fonini to'ldirish uchun x (gorizontal) va y (vertikal)
+yo'nalishida qaytariladi
+
+-----------------------------
+
+    Background - orqa fondagi rasmimiz qanday o'lchovga ega bo'lishini belgilab
+beradi
+    Cover - berilgan elementimizni butunlay qoplaydi
+    Contain - rasmimiz to'liqligicha ko'rsatiladi
+    Berilgan o'lchov - rasmimiz ko'rsatilgan o'lchovga ega bo'ladi
+
+    Background position - orqa fondagi rasmimiz elementimizni qayeridan boshlanishini
+belgilab beradi
+    Qiymatlari top/left/right/bottom/center - Rasmimiz ko'rsatilgan qiymatiga ko'rasm
+joylashadi. Birinchi qiymat gorizontal, ikkinchisi esa vertikal joylashuv uchun
+ishlatiladi
+    O'lchovni ko'rsatish - Rasmimiz ko'rsatilgan o'lchovga ega bo'lgan masofada
+joylashadi
