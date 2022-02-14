@@ -1,8 +1,9 @@
-    Z-INDEX - ustma-ust tushib qolgan elementlarni ketma-ketligini aniqlab beradi.
-Kattaroq "z-index"ga ega bo'lgan element kichikrog'iga qaraganda oldinda joylashadi.
-Z-index har doim joylashtirilgan (positioned) elementlarga amal qiladi.
+    Hidden - sig'may qolgan qismi ekrandan yashirilasi (berkitiladi)
+    
+    Scroll - sig'may qolgan qismini ko'rish uchun scroll qo'shiladi
 
-    Overflog - kontent elementni ichiga sig'may qolgan payti, o'zini qanday tutishini
-aniqlab beradi.
+    Auto - xuddi "scroll"ga o'xshab sig'may qolgan qismini ko'rish uchun scroll qo'shiladi
+lekin faqatgina kerak bo'lgan payti
 
-    Visible - sig'may qolgan qismi boricha ekranda ko'rinadi
+    Vertical hamda gorizontal "scroll"ni overfolw-x va overflow-y yordamida alohida
+qilib ko'rsatib o'tish mumkin
