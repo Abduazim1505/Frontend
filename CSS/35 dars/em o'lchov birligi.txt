@@ -1,0 +1,12 @@
+    em - o'lchov birligi bo'lib, elementimizning fon-size xossasiga asoslanib
+hisoblanadi. Agar elementimizning font-size xossasi bo'lmasa, u ota-ona (parent)
+elementining fon-size qiymati, unda ham bo'lmasa keyingi ajdodining (ancestor)
+font-size qiymatiga asoslanadi
+
+    Agar elementimizani o'zida yoki ajdodida font-size bo'lmasa u
+brauzerni defolt ya'ni brauzerni o'zida ko'rsatilgan font size o'lchamini
+oladi va bu holatdlarda 16px bo'ladi
+
+    em o'lchovi birligining kamchiligi - elemntimiz ichma-ich (nested) bo'lganda
+biz hisobdan adashib ketishimiz mumkin va bunday holatlarni oldini olish uchun
+yana bitta nisbiy o'lchov bor bu "ram" deb ataladi

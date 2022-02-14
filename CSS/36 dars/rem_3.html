@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>"rem" HTML elementimiz o'zining font-size xossasiga ega bo'lmaganda</title>
+        <style>
+            .parent-box {
+                font-size: 1.5rem; /* 1.5 * 16px = 24px */
+            }
+
+            .child-box {
+                font-size: 2rem; /* 2 * 16px = 32px */
+            }
+
+            .box {
+                height: 600px;
+                width: 1000px;
+                border: 1px solid red;
+                font-size: 2rem; /* 2 * 16px = 32px */
+                border-radius: 0.5rem; /* 0.5 * 16px = 8px */
+                padding: 5rem; /* 5 * 16px = 80px */
+            }
+        </style>
+    </head>
+    <body>
+        <div class="parent-box">
+            <div class="child-box">
+                <div class="box">Elementlarimiz nested holatda joylashganda</div>
+            </div>
+        </div>
+    </body>
+</html>

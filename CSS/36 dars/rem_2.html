@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>"rem" HTML elementimiz o'zining font-size xossasiga ega bo'lmaganda</title>
+        <style>
+            html {
+                font-size: 32px;
+            }
+
+            .box {
+                height: 600px;
+                width: 1000px;
+                border: 1px solid red;
+                font-size: 2rem; /* 2 * 32px = 64px */
+                border-radius: 0.5rem; /* 0.5 * 32px = 16px */
+                padding: 5rem; /* 5 * 32px = 160px */
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box">HTML elementimiz uchun font-size xossasi ko'rsatilganda</div>
+    </body>
+</html>

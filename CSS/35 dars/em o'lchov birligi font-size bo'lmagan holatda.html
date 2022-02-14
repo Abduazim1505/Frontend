@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>em o'lchov birligi font size orqali</title>
+        <style>
+            .parent-box {
+                font-size: 30px;
+            }
+
+            .box {
+                height: 600px;
+                width: 1000px;
+                border: 1px solid red;
+                border-radius: 0.5em; /* 0.5 * 30px = 15px  border radiusni font-sizega ko'paytirib chiqarvoti*/
+                padding: 5em; /* 5 * 30px = 150px */
+            }
+        </style>
+    </head>
+    <body>
+        <div class="parent-box">
+            <div class="box">font size xossasiga ega bo'lmagan holatda</div>
+        </div>
+    </body>
+</html>

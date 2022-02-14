@@ -1,0 +1,20 @@
+    Viewport with (vw) - "viewport"ning to'liq kenligiga nisbatan hisoblanadi.
+Masalan, 10vw "viewport"ning 10%, 20vw esa 20% kengligiga qiymatiga ega bo'ladi
+
+    Viewport va (%) farqlari - foiz bu u joylashgan elementga nisbatan ya'ni
+ota-ona (parent) yoki ajdod (ancestor) elementlarga nisbatan o'lchanadi.
+VW esa faqatgina brauzerimizning viewport kengligiga nisbatan o'lchanadi.
+
+    Viewport height (vh) - "viewport"ning to'liq balandligiga nisbatan hisoblanadi.
+Masalan, 10vh "viewport"ning 10%, 100vh esa 100% balandligi qiymatiga ega bo'ladi
+
+    vw - bu kenligiga
+    vh - esa balandligiga nisbatan hisoblanadi
+
+    Viewport Minimum (vmin) - "viewport"ning to'liq balandligi va kengligidan
+eng kichigiga nisbatan hisoblanadi. Masalan, 10vmin "viewport"ning balandlik
+va kengligidan eng kichigining 10% ga nisbatan o'lchanadi
+
+    Viewport Maximum (vmax) - "viewport"ning to'liq balandligi va kengligidan
+eng kattasiga nisbatan hisoblanadi. Masalan, 10vmax "viewport"ning balandlik
+va kengligidan eng kattasining 10% ga nisbatan o'lchanadi

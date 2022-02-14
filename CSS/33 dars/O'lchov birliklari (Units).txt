@@ -1,0 +1,22 @@
+    CSS unit - CSS xossasining o'lchovini bildiradi. O'lchov birliklari 
+ishlatilinadigan CSS xossalari: font-size, margin, padding, border, with, 
+height, top, right, bottom, left va boshqalar
+
+    Absolute (mutloq) units - mutloq o'lchov birliklari qanday ko'rsatilgan
+bo'lsa huddi shunday ekranga chiqadi. Absolute o'lchov birliklarini ishlatish
+tavsiya etilmaydi chunki ular ekranga qarab o'z o'lchovini o'zgartirmaydi
+    Misol:
+    px
+    cm
+    mm
+    in
+    pt
+
+    Relative (nisbiy) units - nisbiy o'lchov birliklari boshqa uzunlik
+o'lchoviga nisbatan o'z uzunligini belgilaydi. Turli xil ekranlarga 
+moslashishi mumkin 
+    Misol:
+    %
+    em
+    rem
+    vw va vh (viewport units)

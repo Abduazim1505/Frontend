@@ -1,0 +1,8 @@
+    rem - bu nisbiy o'chov birligi bo'lib, sahifamizning root (ildiz) elementining
+font-size xossasiga asoslanib hisoblanadi. Root element bu html elementimidir.
+Odatda html elementimiz 16px font qiymatiga ega bo'ladi
+
+    rem - doyim html font sizesi dan oladi, odatda bu 16px bo'ladi. 
+    em esa ozini ota font sizesidan oladi
+
+    border o'ziga rem ham em ham odatda berilmaydi faqat px larda ifodalanadi

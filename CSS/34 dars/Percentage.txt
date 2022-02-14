@@ -1,0 +1,17 @@
+    Percentage (%) unit - Foiz o'lchov birligi position xossasining qiymatiga
+qarab o'zgaradi. Ya'ni foiz o'lchov birligi "position"ning bir qiymati uchun
+boshqacha ikkinchi qiymati uchun esa umuman boshqa natijani beradi.
+
+    Position xossasi fixed qiymatiga ega bo'lgan payti, biz ko'rsatgan foiz
+qiymatimiz viewportga nisbatan o'lchamga ega bo'ladi
+
+    Position xossasi absolute qiymatiga ega bo'lgan payti, biz ko'rsatgan foiz
+qiymatimiz eng yaqin positioned avlodining content va padding qiymatlarini
+yig'indisiga (content + padding)
+
+    Positioned degan xossasi statikdan boshqa har qanday elementga ega
+bo'lgan elemntga aytiladi
+
+    Position xossasi static yoki relative qiymatiga ega bo'lgan payti, biz
+ko'rsatgan foiz qiymatimiz eng yaqin block turidagi avlodining content
+qiymatiga nisbatan o'lchamga ega bo'ladi
