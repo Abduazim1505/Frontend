@@ -1,0 +1,9 @@
+    Local Fonts
+Kearkli fontlar yaratib yoki ko'chirib olib, ularni loyihamizga qo'shib,
+veb sahifamizga local font ko'rinishida ulashimiz mumkin
+
+    Font fayllarimiz turli xil formatga ega bo'lishi mumkin. Masalam:
+TTF; (Ko'b brauzerlar TTF formatni qo'llaydi)
+WOFF; ("TTF" ga qaraganda ko'proq brauzerlarni qo'llab quvatlaydi va fayl hajmi ham kichikroq)
+WOFF 2.0; ("WOFF" ga qaraganda kamroq brauzer qo'llab quvatlaydi va kamroq joy egallaydi)
+EOT; (Juda kam sonli brauzerlarni qo'llab quvatlaydi)

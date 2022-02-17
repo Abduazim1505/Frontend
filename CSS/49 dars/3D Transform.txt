@@ -1,0 +1,10 @@
+    3D - geometrik model bo'lib elementimizni fazodagi joylashuvini
+aniqlash uchun 3ta nuqtadan foydalaniladi
+
+    3D Transform - veb sahifamizdagi elementlarni uch o'lchovlik fazoda
+aylantirish, siljitish, o'lchovini o'zgartirish hisoblanadi
+
+    2D va 3D "transform"lar uchun bir xil transform CSS xossasi ishlatiladi
+
+    Rotate3d - elementni fazoda ko'rsatilgan qiymatlar bo'yicha aylantirish
+uchun ishlatiladi

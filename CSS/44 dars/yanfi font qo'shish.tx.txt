@@ -1,0 +1,26 @@
+    Veb sahifa shrifti
+Veb sahifamiz font-family css xossamizga asoslanib shriftga ega bo'ladi va uning 3
+xil ko'rinishi mavjud: font-family xossasi umuman ko'rsatilmaganda, font-oilasi
+ko'rsatilganda va ma'lum bir fontlar nomi sanab o'tilgandi.
+
+     Font-family xossasi ko'rsatilmagan
+Bu holatda veb sahifamiz brauzerning oldindan belgilab qo'yilgan (default)
+shriftiga ega bo'ladi. Bu ko'p hollarda Times New Roman shrifti hisoblanadi.
+
+    Font-family xossasi uchun font oilasi qiymat sifatida ko'rsatilgan
+Bu holatda veb sahifamiz brauzerning sozlamalar (settings) qismida font oilasi
+uchun ko'rsatilgan fontga ega bo'ladi
+
+    Yuqorida ko'rsatib o'tilgan holatda brauzerimiz Helvetica shriftini olish uchun
+operatsion tizimimizga murojaat qiladi. Agar bu shrift operatsion tizimimizda
+o'rnatilgan bo'lsa, brauzer sahifamizni shu shrift yordamida ekranga chiqaradi, aks
+holda keyingi ko'rsatgan shrift yoki shriftlar oilasidan foydalanadi
+
+    Google fonts - servis yordamida veb saytimizga turli xil fontlarni qo'shish
+imkoniyatiga ega bo'lamiz
+
+    Agar veb sahifada bold yoki italic ko'rinishidagi matnlar ishlatilinadigan bo'lsa,
+fontni tanlayotganda uning har xil ko'rinishlari alohida ko'rsatilishi kerak
+
+     "Google Fonts"ni ishlatish uchun, veb sahifamiz har doim internet tarmog'iga
+ulangan bo'lishi kerak

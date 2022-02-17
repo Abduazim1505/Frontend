@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Media quaries (min-width)</title>
+        <meta name="viewport" content="with=device-width, initial-scale=1">
+        <style>
+            .box {
+                width: 500px;
+                height: 400px;
+                background-color: red;
+            }
+
+            /* 900pxgacha */
+            @media only screen and (max-width: 900px) {
+                .box {
+                    background-color: blue;
+                }
+            }
+
+            /* yuqoridagi va pastdagi @media larni o'rnini almashtirib qo'yish
+            katta hato olib keladi va buni doim to'g'ri yozish shart */
+
+            /* 600pxgacha */
+            @media only screen and (max-width: 600px) {
+                .box {
+                    background-color: green;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box">
+            600pxgacha yshil, 900pxgacha ko'k va undan katta o'lchamlarda
+            qizil rangga kiruvhi quti
+        </div>
+    </body>
+</html>

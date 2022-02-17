@@ -1,0 +1,11 @@
+    Fontlarni 5ta guruh (oila)ga bo'lishimiz mimkin: Serif, Sans-serif,
+Monospace, Cursive va Fantasy
+    Shrift nomi 1 ta so'zdan iborat bo'lsa qo'shtirnoqsiz yozish mumkin
+    Shrigtga font family berish orqali font turini yoki font oilasiga
+kiruvchi 5 yo'nalishdan birini oila nomini kiritishimiz mumkin
+
+    font-family - CSS xossasi bo'lib, veb sahifamiz uchun font ko'rsatishda
+yordam beradi
+    Bunda font turlarini kamida 3 hil turda yozish kerak chunki chrome
+nirinchi ko'rsatilgan fontni ocha olmasa undan kegin kelgan fontni ochib beradi
+va ohirigi 3 chi ko'rinishni fon oilasi nomini kiritib qo'ygan maqul

@@ -1,0 +1,8 @@
+    Responsive Web Design - saytimizni turli xil qurilmalarda chiroyli va
+qulay ko'rinishini ta'minlash. HTML va CSS yordamida elementlarni
+qurilma o'lchoviga qarab berkitish, boshqa joyga ko'chirish va
+o'lchovini o'zgartirishdan tashkil topadi
+    Pixel ratio - qurilmaning pixeldagi ekran o'lchovi va CSS yordamida
+ko'rsatilgan pixel orasidagi nisba
+
+    Viewport meta tag - veb sahifamizni mobil qurilmaning ekraniga moslashtiradi

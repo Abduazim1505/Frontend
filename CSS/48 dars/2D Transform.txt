@@ -1,0 +1,29 @@
+    2D - geometrik model bo'lib elementimizni joylashuvini aniqlash uchun
+2ta nuqta yetarli bo'ladi
+
+    Transform - veb sahifamizdagi elementlarni aylantirish, siljitish,
+o'lchovini o'zgartirish, va og'dirish uchun ishlatiladigan CSS xossasi.
+Uning 2 ko'rinishi mavjud 2D va 3D
+
+    Quyidagi "metod"lari mavjud:
+    .rotate()
+    .translate()
+    .scale()
+    .skew()
+
+    Rotate() - elementimizni soat strelkasi yoki unga teskari bo'lgan yo'nalishda
+burish (aylantirish) uchun ishlatiladi. Musbat qiymat soat strelkasi
+boy'icha, manfiy esa teskari yo'nalishda buradi
+    Transform origin - o'zgartirish (transform) amal qiladigan nuqta
+
+    Translate() - elementimizni xozirgi joyidan siljitish (surish) uchun ishlatiladi.
+Musbat qiymat o'ng va pastga qarab, manfiy esa chap va yuqoriga qarab
+siljitish uchun ishlatiladi
+    "Translate"ning yana translateX() va translateY() ko'rinishlari ham mavjud
+
+    Scale() - elementimizni o'lchovini oshirish yoki kamaytirish uchun ishlatiladi.
+0 bilan 1 orasida berilgan qiymat uning o'lchovini kamaytiradi, 1dan katta
+qiymat esa o'lchovini oshiradi
+
+    Skew() - elementimizni ma'lum bir darajaga (degree)ga og'dirish uchun
+ishlatiladi. Manfiy qiymat og'ish yo'nalishini teskari tomonga o'zgartiradi

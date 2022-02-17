@@ -1,0 +1,18 @@
+    Mobile first - veb sahifamizni birinchi bo'lib mobil qurilmalar uchun
+yaratib, keyin kattaroq ekranlarga moslashtirishga aytiladi
+    
+    Desktop first - veb sahifamizni birinchi katta ekranga ega bo'lgan
+qurilmalar uchun yaratib, keyin kichikroq ekranlar uchun
+moslashtirish. "Mobile first"ni aksi hisoblanad
+   
+    Media queries - kontentimizni ma'lum bir shartlarga ko'ra
+moslashtirish. Masalan, shart deb qurilmamizni ekran o'lchovini
+ma'lum bir pixeldan katta yoki kichkina bo'lishini misol qilishimiz
+mumkin
+    
+    min-width - bu qoida ekranning kengligi ko'rsatilgan qiymatga
+teng yoki katta bo'lgan holatdagini ishlaydi
+    
+    max-width - bu qoida ekranning kengligi ko'rsatilgan qiymatga
+teng yoki kichik bo'lgan holatdagini ishlaydi. "min-width"ning aksi
+hisoblanadi

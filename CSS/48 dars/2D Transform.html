@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rotate</title>
+        <style>
+            .box {
+                width: 500px;
+                height: 500px;
+                background-color: red;
+                transform: rotate(-45deg);
+                margin-bottom: 200px; /* Bu qismini o'zimdan qo'shdim */
+            }
+
+            .parent-box {
+                margin-top: 1000px;
+                border: 5px solid blue;
+                margin-bottom: 200px; /* Bu qismini o'zimdan qo'shdim */
+            }
+            .box_2 {
+                height: 100px;
+                background-color: red;
+                transform: rotate(45deg);
+                transform-origin: top right;
+            }
+
+            .box_3 {
+                width: 500px;
+                height: 500px;
+                background-color: red;
+                transform: translate(20px, 40px);
+                /* transform: translateY(50px);
+                transform: translateX(50px); */
+
+                /* yuqoridagi transform huddiki top / left ga o'xshaydi */
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box">-45 darajaga burilgan quti</div>
+        
+        <hr>
+        
+        <div class="parent-box">
+            <div class="box_2">40 daraja burilgan quti</div>
+        </div>
+
+        <hr>
+
+        <div class="box_3">28px o'ngga, 40px pastga surish</div>
+    </body>
+</html>

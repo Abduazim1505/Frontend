@@ -1,0 +1,9 @@
+    Font style - matnimizni stilinni belgilab beradi
+NORMAL; OBLIQUE; ITALIC
+
+    Font weight - matnimizni qalinligini belgilab beradi
+100; 200; 300; 400; 500; 600; 700; 800; 900...
+
+    Line height - matnimizni qatorining balandligini belgilaydi
+
+    Letter spacing - matnimizdagi simvollar orasidagi simvollarni belgilaydi

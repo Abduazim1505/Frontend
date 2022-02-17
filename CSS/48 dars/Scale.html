@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Scale</title>
+        <style>
+            .box {
+                width: 500px;
+                height: 500px;
+                background-color: red;
+                transform: scale(2,3); /* bunda yoniga 2 baravar bo'yiga 3 baravar o'sdi */
+                margin-bottom: 600px; /* buni o'zimdan qo'shganman */
+            }
+
+            .box_2 {
+                width: 500px;
+                height: 500px;
+                background-color: red;
+                transform: scale(0.5,0.25); /* bunda yoniga 2 baravar bo'yiga 4 baravar kamayadi */
+                transform-origin: left top;
+                /* transform: scaleX();
+                transform: scaleY(); Shunday ko'rinishlari ham mavjud */
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box">
+            Kengligini 2 barobar, balandligini 3 barobarga oshirish
+        </div>
+        <div class="box_2">
+            Kengligini 2 barobar, balandligini 4 barobarga kamaytirish
+        </div>
+    </body>
+</html>
