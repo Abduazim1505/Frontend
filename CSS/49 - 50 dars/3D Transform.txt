@@ -8,3 +8,10 @@ aylantirish, siljitish, o'lchovini o'zgartirish hisoblanadi
 
     Rotate3d - elementni fazoda ko'rsatilgan qiymatlar bo'yicha aylantirish
 uchun ishlatiladi
+
+    Perspective - element foydalanuvchidan qanday uzoqlikda turganini belgilab
+beradi. Qiymat qancha kichik bo'lsa, foydalanuvchi elementga shuncha yaqin
+bo'ladi
+
+    Translate3d - elementni fazoda ko'rsatilgan qiymatlar bo'yicha siljitish uchun
+ishlatiladi
