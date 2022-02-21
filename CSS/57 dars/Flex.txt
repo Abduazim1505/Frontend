@@ -1,0 +1,6 @@
+    Align items - kesuvchi o'qi (cross axis) bo'ylab elementlarni
+joylashuvini belgilaydi
+
+    Align content - kesuvchi o'q (cross axis) bo'ylab flex container
+liniyalarni joylashuvini belgilaydi va qo'shimcha bo'sh joyni
+taqsimlashga yordam beradi

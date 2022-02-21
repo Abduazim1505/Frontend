@@ -1,0 +1,4 @@
+    Order - flex container ichida flex items odatiy oqimga (flow) ko'ra
+joylashadi, ya'ni html kodda birinchi yozilgan flex item veb sahifada
+ham birinchi keladi, lekin order xossasi bu oqimni o'zgartirishi
+mumkin va flex items ketma-ketligini belgilab beradi

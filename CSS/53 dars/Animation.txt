@@ -1,0 +1,13 @@
+    Animation direction - animatsiya oldinga (forwards), orqaga (backwards)
+yoki almashinib (alternate) qo'yilishini belgilab beradi
+
+    Animation timing function - animatsiyamiz tezligi qanday egri chiziqga
+ega bo'lishini belgilab beradi
+
+    Animation fill mode - animatsiya boshlanishidan oldin va tugagandan
+so'ng, elementimiz o'zining oldingi xossalariga ega bo'ladi lekin quyidagi
+xossa orqali, bu holatni o'zgartirish mumkin
+
+    Animation play state - animatsiya qanday holatda ekanini belgilab beradi.
+Uning 2 qiymati mavjud: running (animatsiya davom etayotgan holat) va
+paused (animatsiya to'xtatib qo'yilgan holat)

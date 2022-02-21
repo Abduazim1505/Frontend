@@ -1,0 +1,26 @@
+    Transition - elementimizning xossa qiymatlarini ko'rsatilgan vaqt
+davomida ravon o'zgarishini ta'minlaydi. Transition yaratish uchun
+unga ikki qiymat ko'rsatilishi shart: effekt qo'shmoqchi bo'lgan
+elementimiz xossasi va effektning davomiyligi. Effektimiz
+davomiyligi son ko'rinishidagi qiymatga ega bo'lib, o'lchov birligi s
+(soniya) yoki ms (millisoniya)larda ko'rsatilishi kerak
+
+    Elementimizning hamma xossalari uchun transition effektini amal
+qildirmoqchi bo'lsak all ka'lit so'zidan foydalanishimiz mumkin
+
+    Hamma CSS xossalari ham transition effektiga ega bo'la olmaydi.
+Ko'rsatilgan havola orqali qaysi xossalarga transition effektini
+ko'rsatish mumkin ekanligini bilib olishingiz mumkin
+
+    https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties
+
+    Transition delay - effektimiz qachon boshlanishini (kechikishini)
+belgilab beradi. Son ko'rinishidagi qiymatga ega bo'lib, o'lchov birligi
+s (soniya) yoki ms (millisoniya)larda ko'rsatilishi kerak
+
+    Transition tizimining function - effektimizni tezligi qanday egri chiziqga
+ega bo'lishini belgilab beradi
+
+    Transition delay - effektimiz qachon boshlanishini (kechikishini) belgilab
+beradi. Son ko'rinishidagi qiymatga ega bo'lib, o'lchov birligi s (soniya)
+yoki ms (milliysiniya)larda ko'rsatilishi kerak

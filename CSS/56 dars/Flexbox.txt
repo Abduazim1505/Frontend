@@ -1,0 +1,12 @@
+    Flex direction - asosiy o'qning yo'nalishini belgilab beradi va flex
+items shu o'qga nisbatan joylashganligi uchun, ularning ham
+yo'nalishi belgilanadi.
+
+    Flex wrap - odatda flex elementlarimiz bitta liniyada joylashadi lekin
+flex wrap yordamida bu holatni o'zgartirish mumkin
+
+    Flex flow - flex-direction va flex-wrap xossalari uchun qisqartma
+hisoblanadi
+
+    Justify content - asosiy o'qi bo'ylab elementlarni joylashuvini
+belgilaydi va qo'shimcha bo'sh joyni taqsimlashga yordam beradi
