@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Flexbox order</title>
+        <title>Flex grow</title>
         <style>
             body {
                 font-family: sans-serif;
@@ -22,25 +22,26 @@
                 border-radius: 10px;
             }
 
-            .oreder-minus-5 {
-                order: -5;
+            .flex-group-5 {
+                flex-grow: 5; /* 8 dan 5 qismini Flex item 1 egallaydi */
             }
 
-            .oreder-1 {
-                order: 1;
+            .flex-grow-1 {
+                flex-grow: 1; /* 8 dan 1 qismini Flex item 1 egallaydi */
             }
 
-            .oreder-10 {
-                order: 10;
+            .flex-grow-2 {
+                flex-grow: 2; /* 8 dan 2 qismini Flex item 1 egallaydi */
             }
+
+            /* Flex grow 5 + 1 + 2 = 8 */
         </style>
     </head>
     <body>
         <div class="flex-container">
-            <div class="flex-item order-10">Flex item 1 (order: 10)</div>
-            <div class="flex-item order-1">Flex item 2 (order: 1)</div>
-            <div class="flex-item order-minus-5">Flex item 3 (order: -5)</div>
-            <div class="flex-item">Flex item 4 (order: 0 default)</div>
+            <div class="flex-item flex-grow-5">Flex item 1</div>
+            <div class="flex-item flex-grow-2">Flex item 2</div>
+            <div class="flex-item flex-grow-1">Flex item 3</div>
         </div>
     </body>
 </html>

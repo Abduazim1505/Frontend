@@ -1,0 +1,8 @@
+    Flex basis - flex item uchun boshlang'ich o'lchovni belgilab beradi
+
+    Flex - flex-grow, flex-shrink va flex-basis uchun qisqartma
+(shorthand) hisoblanadi
+
+    Align self - flex container ichidagi ko'rsatilgan "flex item"ni
+joylashuvini belgilab beradi. Boshqacha qilib aytganda flex item
+uchun align items xossasi hisoblanadi

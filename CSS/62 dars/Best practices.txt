@@ -1,0 +1,25 @@
+    Best practices - amaliyotda qo'llash uchun va kodimiz yaxshiroq
+sifatga ega bo'lishi uchun berilgan tavsiyalar
+
+    . CSS kod o'qishga oson bo'lishi kerak
+    . CSS faylda birinchi umumiy selektorlar yozilishi kerak
+    . Birinchi HTML yaratib oling
+    . "Multiple class"lardan foydalaning
+    . Qisqartmalardan (shorthand) foydalaning
+    . CSS kodga izohlar yozib boring
+    . Inline stillardan foydalanmang
+    . Nisbiy (relative) o'lchov birliklaridan foydalaning
+    . Kodni CSS validatorlari yordamida tekshiring
+        http://jigsaw.w3.org/css-validator/
+    
+    . Stillarni fayllarga bo'lib yuboring
+    . Layout yaratishda Flexbox yoki "Grid"dan foydalaning
+    . !important ishlatmaslikka harakat qiling
+    . Class yoki ID nomlayotganda kebab-case formatidan foydalaning
+        kebab-case:
+            class="main-navigation"
+        kemal-case:
+            class="mainNavigation"
+    . CSS metodologiyasidan foydalaning
+        http://getbem.com/introduction/
+        Biz yasagan veb saytimiz BEM metodologiyasidan foydalanilgan

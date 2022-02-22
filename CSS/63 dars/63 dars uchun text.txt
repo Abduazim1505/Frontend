@@ -1,0 +1,7 @@
+    Bu darslikda asosan id lardan foydalanilgan va bu id larni bir stranitsa
+ichida navbardagi ro'yhatlarni bosish orqali yuqoriga yoki pastga tushadi.
+Bunda id nomini hrefga # simvoli bilan qo'shib yoziladi.
+
+    Bundan tashqari bu animatsiya ravon ko'rinishga ega bo'lishi uchun
+uni shared CSS qismidagi html tegiga scroll-behaviour: smooth deya berib
+ketishimiz lozim

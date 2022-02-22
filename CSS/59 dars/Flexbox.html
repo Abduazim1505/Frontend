@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Flexbox order</title>
+        <title>Flexbox basis</title>
         <style>
             body {
                 font-family: sans-serif;
@@ -22,25 +22,16 @@
                 border-radius: 10px;
             }
 
-            .oreder-minus-5 {
-                order: -5;
-            }
-
-            .oreder-1 {
-                order: 1;
-            }
-
-            .oreder-10 {
-                order: 10;
+            .flex-basis-200 {
+                flex-basis: 200px; /* eng katta bo'lgani 200px */
             }
         </style>
     </head>
     <body>
         <div class="flex-container">
-            <div class="flex-item order-10">Flex item 1 (order: 10)</div>
-            <div class="flex-item order-1">Flex item 2 (order: 1)</div>
-            <div class="flex-item order-minus-5">Flex item 3 (order: -5)</div>
-            <div class="flex-item">Flex item 4 (order: 0 default)</div>
+            <div class="flex-item">Flex item 1</div>
+            <div class="flex-item flex-basis-200">Flex item 2</div>
+            <div class="flex-item">Flex item 3</div>
         </div>
     </body>
 </html>

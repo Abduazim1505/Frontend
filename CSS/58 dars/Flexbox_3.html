@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flex shrink</title>
+        <style>
+            body {
+                font-family: sans-serif;
+            }
+
+            .flex-container {
+                display: flex;
+                padding: 20px;
+                background-color: #025955;
+                border-radius: 10px;
+            }
+
+            .flex-item {
+                padding: 60px 15px;
+                background-color: #FDE8CD;
+                font-weight: bold;
+                margin: 10px;
+                border-radius: 10px;
+            }
+
+            .flex-shrink-0 {
+               flex-shrink: 0;
+            }
+            .flex-shrink-3 {
+                flex-shrink: 3;
+            }
+            /* Flex shrink qancha kichik son qiymat qabul qilsa shuncha katta joy oladi */
+            /* Flex shrink joy qolmagan payt o'z hajmini kichraytiradi */
+        </style>
+    </head>
+    <body>
+        <div class="flex-container">
+            <div class="flex-item flex-shrink-0">Flex item 1</div>
+            <div class="flex-item">Flex item 2</div>
+            <div class="flex-item flex-shrink-3">Flex item 3</div>
+            <div class="flex-item">Flex item 4</div>
+            <div class="flex-item">Flex item 5</div>
+            <div class="flex-item flex-shrink-0">Flex item 6</div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+    CSS Grid - to'rga (сетка) asoslangan layout bo'lib, float yoki position
+xossalari yordamisiz qatorlar va ustunlar yordamida veb sahifada
+layout yaratishda yordam beradi. Boshqacha qilib aytganda, veb
+sahifadagi elementlarni joylashtirish uchun xizmat qiladi. CSS Grid 2
+asosiy elementlardan tashkil topgan: grid container va grid item.
+
+    Grid container - display xossasi uchun grid yoki inline-grid
+qiymatiga ega bo'lgan elementga aytiladi
+
+    Grid items - veb sahifamizdagi grid container ota-onaga ega bo'lgan
+elementlar
+
+    "Grid container"ning ikki asosiy xossasi mavjud: grid-template columns va 
+grid-template-rows
+
+    Grid template columns - container ichidagi ustunlar soni va uni
+uzunligini belgilashda ishlatiladi
+
+    Grid template rows - container ichidagi qatorlar balandligini
+belgilashda ishlatiladi
+
+    "Grid item"ga tegishli xossalar yordamida elementni bir necha ustun
+va qatorlarni egallashini ko'rsatib o'tishimisiz mumkin. Uning asosiy
+ikki xossasi mavjud: grid-column va grid-row
+
+    Grid column - element nechta ustunni o'z ichiga olishini belgilab
+beradi

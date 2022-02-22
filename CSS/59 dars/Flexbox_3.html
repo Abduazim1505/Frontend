@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Flexbox order</title>
+        <title>Flex align self</title>
         <style>
             body {
                 font-family: sans-serif;
@@ -9,9 +9,11 @@
 
             .flex-container {
                 display: flex;
+                height: 400px;
                 padding: 20px;
                 background-color: #025955;
                 border-radius: 10px;
+                align-items: flex-start; /* <<<<< */
             }
 
             .flex-item {
@@ -22,25 +24,18 @@
                 border-radius: 10px;
             }
 
-            .oreder-minus-5 {
-                order: -5;
+            .flex-item-2 {
+                align-self: center; /* auto qiymati bersak yuqorida align-items qiymatini oladi */
             }
 
-            .oreder-1 {
-                order: 1;
-            }
-
-            .oreder-10 {
-                order: 10;
-            }
+            /* Bu yerda align-item hamma elementlarni sursa, align-self faqat 1 ta elementni suradi */
         </style>
     </head>
     <body>
         <div class="flex-container">
-            <div class="flex-item order-10">Flex item 1 (order: 10)</div>
-            <div class="flex-item order-1">Flex item 2 (order: 1)</div>
-            <div class="flex-item order-minus-5">Flex item 3 (order: -5)</div>
-            <div class="flex-item">Flex item 4 (order: 0 default)</div>
+            <div class="flex-item">Flex item 1</div>
+            <div class="flex-item flex-item-2">Flex item 2</div>
+            <div class="flex-item">Flex item 3</div>
         </div>
     </body>
 </html>

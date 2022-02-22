@@ -1,0 +1,8 @@
+    Biz o'zgartirmoqchi bo'lgan qatorinimizni faqat bir qatorini olib,
+chap tomonda search qismiga tashlab, replace qismiga esa qanday ko'ri-
+nishga olib kelmoqchi bo'lgan tekstimizni joylab, replace qatori yonida
+turgan iconni (Replace all)ni bosish orqali biz barcha tekstlarni bir
+harakat orqali o'zgartirishimiz mumkin
+
+    !Yana bir narsa hamma fontlar ham kiril alifbosini qo'llab quvatlamaydi.
+Masalan: Incnosolata font ko'rinishini kiril alifbosi qo'llab quvatlamaydi

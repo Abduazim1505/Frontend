@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS Grid template rows</title>
+        <style>
+            body {
+                font-family: sans-serif;
+            }
+
+            .grid-container {
+                display: grid;
+                grid-template-columns: auto auto auto; /* ro'yhat soni */
+                grid-template-rows: 150px 100px; /* ro'yxat qatorining balandliklari */
+                padding: 20px;
+                background-color: #025955;
+                border-radius: 10px;
+            }
+            .grid-item {
+                padding: 20px;
+                background-color: #FDE8CD;
+                font-weight: bold;
+                margin: 10px;
+                border-radius: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="grid-container">
+            <div class="grid-item">Grid item 1</div>
+            <div class="grid-item">Grid item 2</div>
+            <div class="grid-item">Grid item 3</div>
+            <div class="grid-item">Grid item 4</div>
+            <div class="grid-item">Grid item 5</div>
+            <div class="grid-item">Grid item 6</div>
+        </div>
+    </body>
+</html>
