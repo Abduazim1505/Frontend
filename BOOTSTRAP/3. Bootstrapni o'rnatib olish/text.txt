@@ -1,0 +1,4 @@
+    Bootstrap o'rnatilmaydi qo'shib olinadi.
+
+    Bootstrab qo'shish uchun Bootstrapga kirib Docs ga kirib Introductionga
+o'tib CSS link qismi
