@@ -1,0 +1,4 @@
+    Mark Otto Bootstrap yaratuvchisi. Ular avval twiiter veb sayti uchun freymwork ishlab
+chiqqan.
+    Biz asosan bootstrap vwb saytidan "Docs" documentation yani yo'riqnoma bo'limidan olib
+ishlaymiz.
