@@ -1,0 +1,13 @@
+    Grid tizimi (system) - mobile-first yondashuviga asoslangan, 12 ustun
+yordamida har xil ko'rinishidagi "layout"lar yaratish imkoniyati beruvchi tizim.
+Grid bir necha CSS klasslar to'plamidan iboratdir. Grid container, row(qator)
+va column (ustun) lardan iborat tizim hisoblanadi
+
+Grid system qoidalari
+1) Rows (qatorlar) har doim container ichida joylashgan bo'lishi kerak
+2) Gorizontal ustunlar guruhini yaratish uchun rows (qatorlar)dan foydalaning
+3) Kontent har doim columns (ustunlar) ichida joylashadi
+
+Turli xil kenglikga ega bo'lgan ustunlar yaratish
+    Ustunga ma'lum bir kenglik ko'rsatish uchun .col-* klassidan foydalanib,
+yulduzcha (*) o'rniga 1dan 12gacha bo'lgan qiymat berish mumkin. Masalan: .col-6

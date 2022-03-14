@@ -5,7 +5,7 @@ Bundan tashqari bu formamiz qanday so'rov yordamida jo'natilishini method
 attributi yordamida ko'rsatib o'tamiza va bu "GET" "POST" va yana boshqa qiymatlarga
 ega bo'lishi mumkin.
 
-    input attributi ichidagi placeholder qismiga kiritilgan ma'lumot bu
+    input attributi ichidagi placeholder qimdiga kiritilgan ma'lumot bu
 for examplega o'xshab bez svetni hira bo'p ko'rinib turadi
 
     Button

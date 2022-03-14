@@ -8,7 +8,7 @@ Bu holatda veb sahifamiz brauzerning oldindan belgilab qo'yilgan (default)
 shriftiga ega bo'ladi. Bu ko'p hollarda Times New Roman shrifti hisoblanadi.
 
     Font-family xossasi uchun font oilasi qiymat sifatida ko'rsatilgan
-Bu holatda veb sahifamiz brauzerning sozlamalar (settings) qismida font oilasi
+Bu holatda veb sahifamiz brauzerning sozlamalar (settings) qimdida font oilasi
 uchun ko'rsatilgan fontga ega bo'ladi
 
     Yuqorida ko'rsatib o'tilgan holatda brauzerimiz Helvetica shriftini olish uchun

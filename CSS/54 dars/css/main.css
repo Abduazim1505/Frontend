@@ -313,7 +313,7 @@
 
 .blog-item {
     display: inline-block;
-    overflow: hidden; /* carddagi rasm hover scale(1.1) bo'lganda chetka chiqib ketmaydi */
+    overflow: hidden; /* carddagi ramd hover scale(1.1) bo'lganda chetka chiqib ketmaydi */
     width: 30%;
     margin-right: 3%;
     box-sizing: border-box; /* marginni withni ichida hisoblash uchun */
@@ -324,7 +324,7 @@
 }
 
 .blog-item__image {
-    overflow: hidden; /* carddagi rasm hover scale(1.1) bo'lganda chetka chiqib ketmaydi */
+    overflow: hidden; /* carddagi ramd hover scale(1.1) bo'lganda chetka chiqib ketmaydi */
 }
 
 .blog-item:hover .blog-item__info {
@@ -337,7 +337,7 @@
 
 .blog-item__image img { /* imgga 100% deya bersak ajratilgan 30% ga to'liq yoyiladi */
     width: 100%;
-    vertical-align: middle; /* carddagi rasm hover scale(1.1) bo'lganda chetka chiqib ketmaydi */
+    vertical-align: middle; /* carddagi ramd hover scale(1.1) bo'lganda chetka chiqib ketmaydi */
     transition: all 0.3s ease 0s;
 }
 

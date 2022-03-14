@@ -3,5 +3,5 @@ ichida navbardagi ro'yhatlarni bosish orqali yuqoriga yoki pastga tushadi.
 Bunda id nomini hrefga # simvoli bilan qo'shib yoziladi.
 
     Bundan tashqari bu animatsiya ravon ko'rinishga ega bo'lishi uchun
-uni shared CSS qismidagi html tegiga scroll-behaviour: smooth deya berib
+uni shared CSS qimdidagi html tegiga scroll-behaviour: mdooth deya berib
 ketishimiz lozim

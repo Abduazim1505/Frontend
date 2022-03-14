@@ -5,7 +5,7 @@ mumkin va flex items ketma-ketligini belgilab beradi
 
     Flex grow - "flex item"ni kerak payti o'z o'lchovini qanday oshirishini
 belgilab beradi. U son ko'rinishidagi qiymat qabul qilib, bo'sh qolgan
-joyni qancha qismini egallashni ko'rsatib beradi. Default qiymati 0
+joyni qancha qimdini egallashni ko'rsatib beradi. Default qiymati 0
 hisoblanadi
 
     Flex shrink - "flex item"ni kerak payti o'z o'lchovini qanday

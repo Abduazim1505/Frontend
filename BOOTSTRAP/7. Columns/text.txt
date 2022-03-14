@@ -1,0 +1,2 @@
+    Columns (ustunlar) - Bootstrap Grid tizimining asoslaridan biri bo'lib, u qatorni (row) 
+bir necha bo'laklarga bo'lib, o'z ichida kontent saqlash uchun ishlatilinadi

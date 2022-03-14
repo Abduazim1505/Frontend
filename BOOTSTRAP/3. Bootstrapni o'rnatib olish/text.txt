@@ -1,4 +1,16 @@
+    Ommaviy (public) CDN - veb sahifa yaratish uchun ishlatiladigan ochiq manbali
+(open source) loyihalarni (masalan, jQuery, AngularJS va Bootstrap) o'zida
+saqlaydigan va boshqalar ulashadigan veb xizmat
+    
     Bootstrap o'rnatilmaydi qo'shib olinadi.
 
     Bootstrab qo'shish uchun Bootstrapga kirib Docs ga kirib Introductionga
-o'tib CSS link qismi
+o'tib CSS link qimdi
+
+    Bootstrap ulangandan so'ng uni ishlayotgan yoki yo'qligini tekshirish uchun
+div ga "alert alert-info" clasi va Alert komponenti tekstini berish orqali tek-
+shirib olamiz
+
+    Bootstrapni CDN orqali qo'shishdan tashqari lokal ko'rinishdaham ulash
+mumkin, ammo ko'pincha CDN orqali ulanadi. Bunda bootstrap min css va
+bootstrap bundle min js ulanadi

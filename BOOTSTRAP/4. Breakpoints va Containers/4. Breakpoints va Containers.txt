@@ -1,0 +1,16 @@
+    Breakpoints - qurilmamizning kengligiga qarab veb sahifamiz o'z konteti o'zgartiruvchi nuqtalar.
+Bu nuqtalarda, veb sahifamiz odatda boshqa ko'rinishga o'tib, qurilmaga moslashadi. Bootstrap
+o'zining Breakpoint qiymatlariga ega. Aslida Breakpoint yani @medialarni avval telefonga yasab
+keyin uni katta devayslarga moslab boriladi va bunda bizga min-width yordam beradi. Ammo
+biza uni teskari yo'nalishda ya'ni birinchi veb sayt ko'rinishida va keyin mobil ko'rinishida
+yasaymiz bunda bizga max-width yordamga keladi.
+
+    Container - Bootstrap asosiy qimdlaridan biri bo'lib, u elementlarni o'zida saqlash, surish
+va markazga joylashtirish uchun ishlatiladi. Bootstrap Grid tizimini ishlatish uchun "container"dan
+foydalanish majburiy hisoblanadi.
+
+    Container 3 xili mavjud bo'lib:
+1) container - har bir Breakpoint uchun max-width xossasiga qiymatini belgilab beradi
+2) container-fluid - hamma breakpoint uchun width xossasiga 100% qiymatini belgilab beradi
+3) container-{breakpoint} - ko'rsatilgan "breakpoint"gacha width xossasi uchun 100% qiymatini
+    belgilab beradi

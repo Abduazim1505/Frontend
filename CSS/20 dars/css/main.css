@@ -39,7 +39,7 @@ body {
     font-weight: 500;
     font-size: 14px;
     padding: 20px 40px;
-    cursor: pointer; /* mishga oborganda qo'l rasmi chiqadi */
+    cursor: pointer; /* mishga oborganda qo'l ramdi chiqadi */
     border-radius: 5px;
 }
 
@@ -101,7 +101,7 @@ body {
 }
 
 .main-section__image {
-    text-align: right; /* rasmni o'ng tomonga surish */
+    text-align: right; /* ramdni o'ng tomonga surish */
 }
 
 .main-section__welcome {

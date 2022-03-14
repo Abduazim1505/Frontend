@@ -332,7 +332,7 @@ body {
 
 @media only screen and (max-width: 767px) {
     .container {
-        width: 96%; /* qolgan qismi yonlarida margin bo'p qoladi */
+        width: 96%; /* qolgan qimdi yonlarida margin bo'p qoladi */
     }
 
         /* Navigation */
@@ -340,7 +340,7 @@ body {
             display: none;
         } */
 
-    /* Bu yerdagi Navigation va Footerlar planshed qismida ham kelgani
+    /* Bu yerdagi Navigation va Footerlar planshed qimdida ham kelgani
     sababli bu yerda yozmasa ham bo'laveradi */
 
         /* Footer */

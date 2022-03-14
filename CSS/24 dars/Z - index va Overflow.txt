@@ -1,8 +1,8 @@
-    Hidden - sig'may qolgan qismi ekrandan yashirilasi (berkitiladi)
+    Hidden - sig'may qolgan qimdi ekrandan yashirilasi (berkitiladi)
     
-    Scroll - sig'may qolgan qismini ko'rish uchun scroll qo'shiladi
+    Scroll - sig'may qolgan qimdini ko'rish uchun scroll qo'shiladi
 
-    Auto - xuddi "scroll"ga o'xshab sig'may qolgan qismini ko'rish uchun scroll qo'shiladi
+    Auto - xuddi "scroll"ga o'xshab sig'may qolgan qimdini ko'rish uchun scroll qo'shiladi
 lekin faqatgina kerak bo'lgan payti
 
     Vertical hamda gorizontal "scroll"ni overfolw-x va overflow-y yordamida alohida

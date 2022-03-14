@@ -1,0 +1,6 @@
+    Bootstrapning Grid tizimi yordamida turli xil o'lchovga ega bo'lgan qurilmalar
+uchun moslashuvchi (responsive) layout yaratish imkoniyati mavjud. Uning uchun
+Bootstrap "breakpoint"larning "class infix"dan foydalaniladi
+
+    Grid tizimi qatorlarini ichma-ich (nested) joylashtirish imkoniyatini beradi. Uning
+uchun ustun (column) ichida qator (row) ochish kifoya bo'ladi
